@@ -1,0 +1,26 @@
+To Do:
+- problem definiton
+-- take from previous documents (HL requirements, Project plan)
+-- expand with examples of the items the business provides
+
+- current manual system
+-- take from prev. doc. 
+-- create diagram of current system structure
+- problems, advantages, disadvantages in current manual system
+-- take from prev document
+
+- proposed system
+-- take from prev. document
+
+
+- Determine Database tables:
+-- Names of tables, columns of tables and their data types
+
+- Determine input forms and output reports:
+-- wire frames and mock ups
+
+- Determine input data
+-- normal data
+-- exceptional data
+-- extreme data
+--- include mock ups of what error messages would look like in the case of exceptional and extreme data

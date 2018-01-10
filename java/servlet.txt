@@ -1,0 +1,44 @@
+- git pull from repository
+X1. start up sql database
+- ProgramFiles/ MySql/ MySQL server/ bin/ mysqld
+X2. start up eclipse
+X3. figure out JDBC connection to servlets
+- ProgramFilesx86/MySQL/Connector.J 5.1
+- need .jar file
+- add jar to the class path
+X4. create classes for tables 
+- modify user class to include foreign key variables
+
+X5. alter database tables - user to include foreign keys
+
+6. connect from forms to databases
+
+
+
+Sunday
+Database Access class
+- SELECT statement for drop down menus
+	- departments drop down : select all departments X
+	- employee drop down: select all employees from department X
+- INSERT group X
+- UPDATE employee to have group id
+
+	
+- SELECT statement for user X
+	- authentication:
+		- check if user password matches entered password
+		- check if user in session 
+		- store user in SESSION
+
+- Insert records for departmentX
+- employeeX
+
+- UPDATE statements for adding department id to employeeX
+- UPDATE statement for adding department id to group
+
+- condense methods in Database Access class
+
+HelperUtility class
+- add method to display jsp message
+
+

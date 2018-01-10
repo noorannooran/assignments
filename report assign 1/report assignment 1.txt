@@ -1,0 +1,14 @@
+Report Design Assigment 1
+
+Queries
+1.
+2.
+- packages picked up but not delivered yet (pickup date = not null, delivery date null)
+- packages where delivery date = pick up date + 1 day (delivered one day after pickup)
+- packages where pickup date = delivery date (delivered on same day as pickup)
+- packages where pickupdate = delivery date + 1 day (picked up one day after delivery)
+
+3.
+maintenance by transport (number and description)
+group by maintenance and repair
+show cause of repair + work done

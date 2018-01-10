@@ -1,0 +1,35 @@
+Android app assignment
+- add activities for:
+	- login
+	- Navigation/Welcome Screen?
+	- enter patient
+	- enter test
+	- display information 
+		(will display patient information or test information based on selection)
+		(possibly use fragments to implement)
+- create layouts for each activity
+- connect activities to each other (onClickHandlers for each activity.. eg.
+	Login -> Navigation -> Enter Patient
+			    -> Enter Test
+			    -> Display Information (Select Patient) -> Patient Information
+						   (Select Test) -> Test Information
+- 2 types of Navigation: 1 for Doctor, 1 for Nurse
+For both
+	- can login
+	- can enter test information
+	- can display test information for given patient
+For Nurse:
+	- enter patient data
+	- display patient information
+
+- create database access class with SQLite
+- connect database to app
+	- sql select statements for patient and test
+	- sql insert statements for patient and test
+	- sql select statement for user (password- authentication)
+	- populate appropriate drop down boxes
+	- login functionality using
+- test?
+- validation for input
+	- error messages
+- populate database
